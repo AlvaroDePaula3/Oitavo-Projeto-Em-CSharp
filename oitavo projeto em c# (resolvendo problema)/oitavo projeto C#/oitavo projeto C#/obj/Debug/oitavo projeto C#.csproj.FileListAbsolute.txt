@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\bin\Debug\oitavo projeto C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\bin\Debug\oitavo projeto C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\bin\Debug\oitavo projeto C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\obj\Debug\oitavo projeto C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\obj\Debug\oitavo projeto C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\obj\Debug\oitavo projeto C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\obj\Debug\oitavo projeto C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\oitavo projeto em c# (resolvendo problema)\oitavo projeto C#\oitavo projeto C#\obj\Debug\oitavo projeto C#.pdb
